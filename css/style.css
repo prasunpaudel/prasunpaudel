@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+}
+img{
+    height: 100vh;
+    width:100%;
+}
+.main{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hi{
+    font-family: 'Pacifico', cursive;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+    color: rgb(0, 0, 0);
+    border-right: 5px solid;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: 
+        typing 2s steps(22),
+        cursor .4s step-end infinite alternate,
+        neon 5s infinite;
+}
+@keyframes cursor {
+    50% {border-color:transparent}
+}
+
+@keyframes typing {
+    from { width: 0;}
+}
+@keyframes neon {
+    0%, 39%, 41%, 59%, 61%, 100%{
+        text-shadow: 0;
+    }
+}
+nav{
+    position: absolute;
+    top: 45px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 12px;
+    width: 590px;
+    height:50px;
+    background: #081b2d;
+    border-radius: 10px;
+    font-size: 0;
+
+}
+nav a{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+    position:relative;
+    z-index: 1;
+    display: inline-block;
+    text-align: center;
+
+}
+nav .animation{
+    position: absolute;
+    height: 100%;
+    top: 0;
+    z-index: 0;
+    background: #1abc9c;
+    border-radius: 8px;
+    transition: all .5s ease 0s;
+}
+nav a:nth-child(1){
+    width: 145px;
+}
+nav .start-home,a:nth-child(1):hover~.animation{
+    width: 145px;
+    left: 0;
+}
+nav a:nth-child(2){
+    width: 145px;
+}
+nav a:nth-child(2):hover~.animation{
+    width: 145px;
+    left: 145px;
+}
+nav a:nth-child(3){
+    width: 145px;
+}
+nav a:nth-child(3):hover~.animation{
+    width: 145px;
+    left: 290px;
+}
+nav a:nth-child(4 ){
+    width: 155px;
+}
+nav a:nth-child(4):hover~.animation{
+    width: 155px;
+    left: 435px;
+}
