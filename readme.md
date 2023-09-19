@@ -12,7 +12,7 @@
 
 ### Language & Tool:  
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,cpp,java,php,git,github,linux,mysql,vscode,react)]()
+[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,php,git,github,mysql,vscode)]()
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasunpaudel&theme=dark&hide)](https://git.io/streak-stats)
