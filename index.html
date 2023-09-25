@@ -4,27 +4,38 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="image/smile.jfif" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
     <title></title>
 </head>
 <body>
-    <div class="head" >
-        <nav>
-           <a href="#">Home</a>
-           <a href="##">Blog</a>
-           <a href="###">About</a>
-           <a href="####">Contact me</a>
-           <div class="animation start-home"></div>
-        </nav>
-        <img src="image/WallpaperDog-10883221.jpg" alt="img">
-         <div class="main">
-             <div class="hi">
-                 <span>Hi, I'm Prasun Paudel.</span>    
-                </div>
-            </div>
+      <!-- nav section start-->
+      <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+        <div class="container-fluid">
+          <a href="#" class="navbar-brand"></a>
+          <ul class="navbar-nav">
+            <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">About me</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Resume</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Profolio</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">services</a></li>
+          </ul>
         </div>
-    
+    </nav>
+      <!-- nav section end -->
+      <!-- home section start -->
+      <div class="row d-flex align-items-center justify-content-center home">
+        <span class="text-center">
+          <span class="static-text">Hi, I am </span>
+          <span class="text-segment" id="typedText"></span>
+        </span>
+        <span class="cursor" id="cursor">|</span>
+      </div>
+      
+      
+                         
+      <!-- home section end -->
+      <script src="js/script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
 </body>
 </html>
