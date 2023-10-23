@@ -2,9 +2,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @prasunpaudel
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ..... 
-- 📫 How to reach me .....
+- 🌱 I’m laravel developer.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prasunpaudel&theme=onedark)
 
