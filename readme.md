@@ -12,5 +12,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,php,git,github,mysql,vscode)]()
 
-### :fire: My Stats :
+### : My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prasunpaudel&theme=dark)](https://git.io/streak-stats)
