@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+prasun's+Profile)](https://git.io/typing-svg)
 # 💫 About Me:
-- 👋 Hi, I’m Prasun Paudel
-- 👀 I’m interested in web development 
+- 👋 Hi, I’m Prasun Paudel.
+- 👀 I’m interested in web development .
 - 🌱 I’m laravel developer.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=prasunpaudel&theme=onedark)
