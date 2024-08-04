@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+prasun's+Profile)](https://git.io/typing-svg)
 # 💫 About Me:
-- 👋 Hi, I’m Prasun Paudel.
-- 👀 I’m interested in web development .
-- 🌱 I’m laravel developer.
-
+- 👋 Hi, I’m Prasun Paudel!!
+- 👀 I’m interested in web development!!
+- 🌱 I’m laravel developer!!
+- 🧪 I develop and test API!!
 ![trophy](https://github-profile-trophy.vercel.app/?username=prasunpaudel&theme=onedark)
 
 ![prasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasunpaudel&theme=merko&show_icons=true)
@@ -29,4 +29,3 @@
     src="https://raw.githubusercontent.com/prasunpaudel/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
