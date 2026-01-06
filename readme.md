@@ -1,31 +1,88 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+prasun's+Profile)](https://git.io/typing-svg)
-# 💫 About Me:
-- 👋 Hi, I’m Prasun Paudel!!
-- 👀 I’m interested in web development!!
-- 🌱 I’m laravel developer!!
-- 🧪 I develop and test API!!
-![trophy](https://github-profile-trophy.vercel.app/?username=prasunpaudel&theme=onedark)
+<!-- HERO SECTION -->
+<div align="center">
 
-![prasun's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasunpaudel&theme=merko&show_icons=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Prasun%20Paudel&fontAlign=50&fontAlignY=40&color=gradient" />
 
-### Language & Tool:  
+### Laravel Developer • API Builder • System Learner
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,html,css,bootstrap,js,jquery,c,php,git,github,mysql,vscode)]()
+</div>
 
-### : My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prasunpaudel&theme=dark)](https://git.io/streak-stats)
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/prasunpaudel/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/prasunpaudel/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/prasunpaudel/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## 👋 About Me
+
+I’m **Prasun Paudel**, a backend-focused developer who enjoys building  
+**Laravel-based applications** with clean logic and practical structure.
+
+I learn by **building real systems**, fixing mistakes, and improving them step by step.
+
+- 💻 Laravel backend development  
+- 🔐 Login & authentication systems  
+- 🧪 REST API development & testing  
+- 🗄️ MySQL & Oracle Database  
+- 🖥️ Learning .NET MAUI (cross-platform apps)  
+- 📚 Academic + real-world projects  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasunpaudel&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧩 What I Actually Build
+
+✔ User login & authentication Micro SaaS 
+✔ Dashboard & admin panels  
+✔ API-driven applications  
+✔ Secure database interactions  
+
+> I focus on **working systems**, not just demos.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,bootstrap,js,jquery,dotnet,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🧠 Currently Busy With
+
+- Writing **better Laravel architecture**
+- Improving **API performance**
+- Understanding **memory & optimization issues**
+- Building **.NET MAUI apps**
+- Designing **proper database schemas**
+
+---
+
+## 🧪 Project Style
+
+- Simple logic first  
+- Clean & readable code  
+- Gradual improvement  
+- Beginner-friendly structure  
+- Real use-cases over theory  
+
+---
+
+## 📫 Find Me
+
+-📞 **Phone:** +977-98469-73505
+-📍 **Country:** Nepal
+- 💼 Portfolio: *In progress*
+
+---
+
+<div align="center">
+
+⭐ *I believe good developers are built by fixing bugs, not avoiding them.*
+
+</div>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
